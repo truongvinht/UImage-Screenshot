@@ -1,6 +1,6 @@
-# GSRotationMotion iOS
+# UIImage+ScreenShot Category for iOS
 
-The GSRotationMotion class allows to handle shake rotation easily.
+The UIImage+ScreenShot category allows the user to make screenshot and autocorrect wrong orientation.
 
 #Dependency
 Don't forget to add QuartzCore Framework.
